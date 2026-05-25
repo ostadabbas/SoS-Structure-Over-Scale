@@ -1,7 +1,7 @@
 # Structured Over Scale: Learning Spatial Reasoning from Educational Video
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.23251-b31b1b.svg)](https://arxiv.org/abs/2601.23251)
-[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://ostadabbas.github.io/dora.github.io/)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://ostadabbas.github.io/SoS.github.io/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Qween-blue)](https://huggingface.co/bishoygaloaa/Qween)
 [![HuggingFace Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-yellow)](https://huggingface.co/spaces/bishoygaloaa/Qween-Space)
 
