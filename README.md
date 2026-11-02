@@ -116,10 +116,10 @@ Edit `config/dataset_config.yaml` for dataset extraction settings and `config/tr
 If you use this work, please cite:
 
 ```bibtex
-@article{structured2026,
+@inproceedings{structured2026,
   title={Structured Over Scale: Learning Spatial Reasoning from Educational Video},
   author={Galoaa, Bishoy and Bai, Xiangyu and Ostadabbas, Sarah},
-  journal={arXiv preprint arXiv:2601.23251},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2026}
 }
 ```
